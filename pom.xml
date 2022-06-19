@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.204.144.34:9980/mithuntechnologies/repository/walmart-releases/</url>
+	      <url>http://ec2-43-204-220-68.ap-south-1.compute.amazonaws.com:8081/repository/wipro-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.144.34:9980/mithuntechnologies/repository/walmart-snapshot/</url>
+	      <url>http://ec2-43-204-220-68.ap-south-1.compute.amazonaws.com:8081/repository/wipro-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
